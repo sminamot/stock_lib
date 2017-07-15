@@ -1,0 +1,17 @@
+{
+  "name": "stock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sminamot",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.2.0"
+  },
+  "dependencies": {
+    "moment": "^2.18.1"
+  }
+}
